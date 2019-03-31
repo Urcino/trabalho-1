@@ -1,0 +1,41 @@
+@font-face{
+    font-family:Roboto;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf')
+}
+
+body{
+    text-align: center;
+    font-family: Roboto;
+    margin: 0;
+
+}
+#Principal{
+    background-image: url(../img/ae58a9891280dcc030f61d98cc7fa782.jpg);
+    background-position:left;
+    background-size: cover;
+    padding: 8px;
+    margin: 0px;
+    color: white;
+}
+nav a{
+    display: block;
+    margin: 0px auto;
+    width: 100px;
+    padding:0px;
+    border:1px solid #AAA;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+
+}
+
+#carros1{
+    background-color: darkgray;
+    text-align:justify;
+    color: white;
+}
+footer{
+    background-color: #555;
+    color:white;
+}
+

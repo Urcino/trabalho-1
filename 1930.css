@@ -1,0 +1,17 @@
+@font-face{
+    font-family:Niramit;
+    src: url('../fonts/Niramit/Niramit-Regular.ttf')
+}
+
+body{
+    text-align: center;
+    font-family:Niramit, sans-serif;
+    margin: 0;
+    
+}
+p{
+    display: block;
+    text-align: left;
+    color: black;
+    
+}
